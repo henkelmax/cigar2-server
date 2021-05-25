@@ -1,0 +1,10 @@
+{
+  "name": "cigar2-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:henkelmax/cigar2-server.git",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.4.6"
+  }
+}
