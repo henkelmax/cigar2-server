@@ -1,6 +1,6 @@
 [submodule "OgarII"]
 	path = OgarII
-	url = git@github.com:henkelmax/OgarII.git
+	url = https://github.com/henkelmax/OgarII.git
 [submodule "Cigar2"]
 	path = Cigar2
-	url = git@github.com:henkelmax/Cigar2.git
+	url = https://github.com/henkelmax/Cigar2.git
